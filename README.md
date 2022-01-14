@@ -1,5 +1,9 @@
 # EMG Analysis for the Flexible Electrode Arrays for High-Resolution EMG Workshop
-This repository shows how to analyze EMG recordings and extract single unit. It is a translation/adaptation of the Matlab code provided in the Workshop.
+This repository shows how to analyze EMG recordings and extract single unit.
+
+It is a translation/adaptation of the Matlab code provided in the Workshop.
+
+[Go to the Notebook](blob/main/Workshop%20analysis.ipynb)
 
 # Requirements
 - Python 3
